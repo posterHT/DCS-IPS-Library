@@ -11,9 +11,9 @@ Private remote controller
   - Controller with web service
   - Private free server
   - Processer info
-     = model
-     = usage
-     = thread count
+     , model
+     , usage
+     , thread count
   - Bios information
   - Private file read/write
   - Social page connection
@@ -48,9 +48,6 @@ Supported App:
    Microsoft Apps
    
 Supported Software:
-  win 8 
-  win 8.1
-  win 10
-  win 11
-  pardus(BETA)
-  Android Web Database
+   Widnows 8, 8.1, 10, 11
+  ; PARDUS(BETA)
+  ; Android Web Database
